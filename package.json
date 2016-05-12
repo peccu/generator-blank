@@ -1,0 +1,33 @@
+{
+  "name": "generator-blank",
+  "version": "0.1.0",
+  "description": "Minimum Yeoman generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peccu/generator-blank.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": {
+    "name": "Kentaro Shimatani",
+    "email": "peccul@gmail.com",
+    "url": "https://github.com/peccu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peccu/generator-blank/issues"
+  },
+  "homepage": "https://github.com/peccu/generator-blank#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.23.3"
+  },
+  "devDependencies": {
+    "yeoman-assert": "^2.2.1",
+    "yeoman-test": "^1.4.0"
+  }
+}
